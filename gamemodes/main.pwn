@@ -17360,7 +17360,7 @@ foreach(new i : Player) {
 
 	new Float:Pos[3];
 	GetPlayerPos(i, Pos[0], Pos[1], Pos[2]);
-	if((Pos[2] >= -30.0000 && Pos[2] <= -20.5000) && IsPlayerInDynamicArea(i, bankSafe) && SruseniLaseri == false && VecjeUsao[i] == false && GetFactionType(i) != ORG_TIP_PD && WatchingTV{ i ] == 0) {
+	if((Pos[2] >= -30.0000 && Pos[2] <= -20.5000) && IsPlayerInDynamicArea(i, bankSafe) && SruseniLaseri == false && VecjeUsao[i] == false && GetFactionType(i) != ORG_TIP_PD && WatchingTV{ i } == 0) {
 		PostaviWanted(i, "Ulaz u sef banke", "Nepoznati", 3);
 		VecjeUsao[i] = true;
 	}
@@ -28466,7 +28466,7 @@ ybr += (distance * floatcos (-a, degrees));}
 stock CheckTeleports(i) {
 
 if(antiCheatSS[antiflyH] == true) {
-	if(antiCheatCS[i][TeleportCheck] <= 0 && WatchingTV{ i ] == 0 && GetPlayerState(i) == PLAYER_STATE_ONFOOT) {
+	if(antiCheatCS[i][TeleportCheck] <= 0 && WatchingTV{ i } == 0 && GetPlayerState(i) == PLAYER_STATE_ONFOOT) {
 		if(!AdminDuty[i] && GetPlayerSpecialAction(i) != SPECIAL_ACTION_USEJETPACK && GetPlayerWeapon(i) != 46) {
 			if(GetPlayerAnimationIndex(i) != 1195 && GetPlayerAnimationIndex(i) != 1130) {
 				if(GetPlayerSurfingVehicleID(i) == INVALID_VEHICLE_ID && GetPlayerSurfingObjectID(i) == INVALID_OBJECT_ID && GetPlayerInterior(i) == 0 && GetPlayerVirtualWorld(i) == 0) {
@@ -28504,7 +28504,7 @@ if(antiCheatSS[antiTeleportH] == true) {
 	if(antiCheatCS[i][TeleportCheck] <= 0) {
 		if((Pos[2] < 900.0) == (antiCheatCS[i][TeleportPos][2] < 900.0)) {
 
-			if(GetPlayerState(i) != PLAYER_STATE_PASSENGER && WatchingTV{ i ] == 0 && GetPlayerSurfingVehicleID(i) == INVALID_VEHICLE_ID && PlayerInfo[i][xPocetniTut] == 1 && !IsVehicleLetelica(GetPlayerVehicleID(i)) && FlyMode[i] == false) {
+			if(GetPlayerState(i) != PLAYER_STATE_PASSENGER && WatchingTV{ i } == 0 && GetPlayerSurfingVehicleID(i) == INVALID_VEHICLE_ID && PlayerInfo[i][xPocetniTut] == 1 && !IsVehicleLetelica(GetPlayerVehicleID(i)) && FlyMode[i] == false) {
 
 				if(!IsPlayerInRangeOfPoint(i, 100.0, antiCheatCS[i][TeleportPos][0], antiCheatCS[i][TeleportPos][1], antiCheatCS[i][TeleportPos][2])) {
 
