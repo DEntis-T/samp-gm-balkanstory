@@ -1,0 +1,4 @@
+{
+	"cmd": ["pawncc.exe", "-i includes", "$file"],
+	"path": "C:/pawnc"
+}
