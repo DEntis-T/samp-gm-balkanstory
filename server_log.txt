@@ -1,0 +1,176 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:48:53] filterscripts = ""  (string)
+[22:48:53] 
+[22:48:53] Server Plugins
+[22:48:53] --------------
+[22:48:53]  Loading plugin: jit
+[22:48:53]   JIT plugin 2.4.1
+[22:48:53]   Loaded.
+[22:48:53]  Loading plugin: /*crashdetect*/
+[22:48:53]   Failed.
+[22:48:53]  Loading plugin: SKY
+[22:48:53] 
+[22:48:53]  ===============================
+[22:48:53]    
+[22:48:53]    < SKY - 2.3.0 >
+[22:48:53]    
+[22:48:53]    (c) 2008 - Present | YSF Maintainers
+[22:48:53]    (c) 2015 | Oscar "Slice" Broman
+[22:48:53]    
+[22:48:53]    Server Version: 0.3.7 R2
+[22:48:53]    Operating System: Windows
+[22:48:53]    Built on: Sep 27 2021 at 23:19:52
+[22:48:53]    
+[22:48:53]  ===============================
+[22:48:53] 
+[22:48:53]   Loaded.
+[22:48:53]  Loading plugin: streamer
+[22:48:53] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[22:48:53]   Loaded.
+[22:48:53]  Loading plugin: sscanf
+[22:48:53] 
+
+[22:48:53]  ===============================
+
+[22:48:53]       sscanf plugin loaded.     
+
+[22:48:53]          Version:  2.8.3        
+
+[22:48:53]   (c) 2018 Alex "Y_Less" Cole  
+
+[22:48:53]  ===============================
+
+[22:48:53]   Loaded.
+[22:48:53]  Loading plugin: pawnraknet
+[22:48:53] [Pawn.RakNet] plugin v1.5.1 loading...
+[22:48:53] [Pawn.RakNet] 
+
+    | Pawn.RakNet 1.5.1 | 2016 - 2021
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Sep 26 2021 at 12:04:10
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.RakNet
+    |--------------------------------------------------------------
+    | Wiki: https://github.com/katursis/Pawn.RakNet/wiki
+
+[22:48:53]   Loaded.
+[22:48:53]  Loading plugin: pawncmd
+[22:48:53] [Pawn.CMD] plugin v3.3.6 loading...
+[22:48:53] [Pawn.CMD] 
+
+    | Pawn.CMD 3.3.6 | 2016 - 2021
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Sep 26 2021 at 11:55:10
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[22:48:53]   Loaded.
+[22:48:53]  Loading plugin: YSF
+[22:48:53] 
+[22:48:53]  ==============================================
+[22:48:53]  YSF 2.2 (compiled Sep 19 2021 13:01:03) loaded
+[22:48:53]   (c) 2008 Alex "Y_Less" Cole
+[22:48:53]   (c) 2010 - 2018 kurta999
+[22:48:53]   (c) 2018 - 2020 IllidanS4
+[22:48:53]  Server version: 0.3.7 R2-1 or R2-2, Windows
+[22:48:53]  ==============================================
+[22:48:53] 
+[22:48:53]   Loaded.
+[22:48:53]  Loaded 7 plugins.
+
+[22:48:53] 
+[22:48:53] Filterscripts
+[22:48:53] ---------------
+[22:48:53]   Loaded 0 filterscripts.
+
+[22:48:53]  
+[22:48:53]  
+[22:48:53]          ==============================================================
+[22:48:53]          |                                                            |
+[22:48:53]          |                                                            |
+[22:48:53]          |     YYYYYYY       YYYYYYY   SSSSSSSSSSSSSSS IIIIIIIIII     |
+[22:48:53]          |     Y:::::Y       Y:::::Y SS:::::::::::::::SI::::::::I     |
+[22:48:53]          |     Y:::::Y       Y:::::YS:::::SSSSSS::::::SI::::::::I     |
+[22:48:53]          |     Y::::::Y     Y::::::YS:::::S     SSSSSSSII::::::II     |
+[22:48:53]          |     YYY:::::Y   Y:::::YYYS:::::S              I::::I       |
+[22:48:53]          |        Y:::::Y Y:::::Y   S:::::S              I::::I       |
+[22:48:53]          |         Y:::::Y:::::Y     S::::SSSS           I::::I       |
+[22:48:53]          |          Y:::::::::Y       SS::::::SSSSS      I::::I       |
+[22:48:53]          |           Y:::::::Y          SSS::::::::SS    I::::I       |
+[22:48:53]          |            Y:::::Y              SSSSSS::::S   I::::I       |
+[22:48:53]          |            Y:::::Y                   S:::::S  I::::I       |
+[22:48:53]          |            Y:::::Y                   S:::::S  I::::I       |
+[22:48:53]          |            Y:::::Y       SSSSSSS     S:::::SII::::::II     |
+[22:48:53]          |         YYYY:::::YYYY    S::::::SSSSSS:::::SI::::::::I     |
+[22:48:53]          |         Y:::::::::::Y    S:::::::::::::::SS I::::::::I     |
+[22:48:53]          |         YYYYYYYYYYYYY     SSSSSSSSSSSSSSS   IIIIIIIIII     |
+[22:48:53]          |                                                            |
+[22:48:53]          |                                                            |
+[22:48:53]          |                      (c) 2021 MPL v1.1                     |
+[22:48:53]          |            Alex "Y_Less" Cole and contributors.            |
+[22:48:53]          |                                                            |
+[22:48:53]          |                                                            |
+[22:48:53]          ==============================================================
+[22:48:53]  
+[22:48:53]  
+[22:48:53]  ========================================== 
+[22:48:53]  |                                        | 
+[22:48:53]  |  Missing YSI scriptfiles directories:  | 
+[22:48:53]  |                                        | 
+[22:48:53]  |      /scriptfiles/YSI/fixes/           | 
+[22:48:53]  |      /scriptfiles/YSI/temp/            | 
+[22:48:53]  |                                        | 
+[22:48:53]  ========================================== 
+[22:48:53]  |                                        | 
+[22:48:53]  |   Generating code, this may take a     | 
+[22:48:53]  |          little bit of time.           | 
+[22:48:53]  |                                        | 
+[22:48:53]  |             Please wait...             | 
+[22:48:54]  |                                        | 
+[22:48:54]  |                 Done!                  | 
+[22:48:54]  |                                        | 
+[22:48:54]  ========================================== 
+[22:48:54]  
+[22:48:56]  
+[22:48:56]  ========================================== 
+[22:48:56]  |                                        | 
+[22:48:56]  | Server:      0.3.7 - Windows           | 
+[22:48:56]  | Compiler:    3.10.08 - Windows         | 
+[22:48:56]  | Codepage:    <none>                    | 
+[22:48:56]  | YSI:         5.05.0506                 | 
+[22:48:56]  | Started:     1658090933                | 
+[22:48:56]  | JIT:         2.1 or later              | 
+[22:48:56]  | Crashdetect: <none>                    | 
+[22:48:56]  |                                        | 
+[22:48:56]  ========================================== 
+[22:48:56]  |                                        | 
+[22:48:56]  | Unable to check the latest YSI version | 
+[22:48:56]  | - please watch the forums and github:  | 
+[22:48:56]  |                                        | 
+[22:48:56]  |          https://git.io/5.x            | 
+[22:48:56]  |                                        | 
+[22:48:56]  ========================================== 
+[22:48:56]  
+[22:48:56]   Filterscript '../scriptfiles/callbackfix.amx' loaded.
+[22:48:56]  
+[22:48:56] MapFix by Nexius v4.3.3 loaded (include version).
+[22:48:56] (modelsizes-SQL): Database loaded successfully.
+[22:48:56] [ADM] Info: Load 3DTryg v4.6.1 for SA:MP 0.3.7 by Abyss Morgan
+[22:48:56] [BAZA] Ucitavanje moda u toku...
